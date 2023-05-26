@@ -1,3 +1,5 @@
+package lab4_rmi;
+
 import java.rmi.registry.*;
 
 public class CalculatorServer {

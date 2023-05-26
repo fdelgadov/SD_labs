@@ -1,3 +1,5 @@
+package lab4_rmi;
+
 public class CalculatorImpl extends java.rmi.server.UnicastRemoteObject implements Calculator {
     // Implementations must have an explicit constructor
     // in order to declare the RemoteException exception
