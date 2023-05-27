@@ -1,0 +1,2 @@
+c:
+	javac $F/*.java
